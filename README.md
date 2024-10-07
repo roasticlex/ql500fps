@@ -1,3 +1,5 @@
+NOTE: This is NOT my creation. The original creator got lost in the ether/repo nuked.
+
 Attached is an executable to run Quake Live at 500 FPS. Even having a monitor <250hz, using this will make your game feel better.
 
 QL500FPS.7z - contains the files to run. All are necessary.
